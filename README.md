@@ -137,7 +137,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 ---
 
-*Built with ❤️ for the decentralized future*
 
 ## Contract Details
 Contract Address- 0xDffc12647c7af6936D1cd915fCD1169635CDDf3f
