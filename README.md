@@ -40,7 +40,7 @@ We aim to build the foundation for Web3 file storage infrastructure that support
 - **Scalable Architecture**: Support for unlimited files and users
 - **IPFS Integration**: Content-addressed storage for permanent file availability
 - **Cross-Platform Compatibility**: Works with any Web3-enabled application or wallet
-- **Developer-Friendly**: Clean APIs and comprehensive documentation for integration
+- **Developer-Friendly**: Clean APIs and comprehensive documentation for integrationn
 
 ## Future Scope
 
