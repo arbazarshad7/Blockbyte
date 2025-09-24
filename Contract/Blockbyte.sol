@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 /**
- * @title Blockbyte - Decentralized File Storage System
+ * @title Blockbyte - Decentralized File Storage Systems
  * @dev Smart contract for managing decentralized file storage and sharing
  */
 contract BlockByte {
